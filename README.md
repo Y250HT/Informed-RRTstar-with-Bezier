@@ -3,7 +3,7 @@ The repository implements the informed rrt*(rapidly exploring random tree) algor
 
 ## use the informed rrt* for path planning
 <p align="center">
-  <img src="readmefile/1.jpg" width="300">
+  <img src="readmefile/1.jpg" width="500">
 </p>
 
 ## use the third-order Bezier curve to smooth the path
