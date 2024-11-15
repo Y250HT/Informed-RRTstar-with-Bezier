@@ -6,7 +6,7 @@ The repository implements the informed rrt*(rapidly exploring random tree) algor
   <img src="readmefile/1.jpg" alt="说明文本">
 </p>
 
-## use the Bezier curve to smooth the path
+## use the third-order Bezier curve to smooth the path
 <p align="center">
   <img src="readmefile/2.gif" alt="说明文本">
 </p>
