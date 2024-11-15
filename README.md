@@ -1,5 +1,5 @@
-# Informed-rrt-with-Bsplie
-The repository implements the informed rrt*(rapidly exploring random tree) algorithm optimized using Bsplie and integrates it in the nav2 path planner under ros2 humble.
+# Informed-RRTstar-with-Bsplie
+The repository implements the informed RRT*(rapidly exploring random tree) algorithm optimized using Bsplie and integrates it in the nav2 path planner under ros2 humble.
 
 ## use the informed rrt* for path planning
 <p align="center">
