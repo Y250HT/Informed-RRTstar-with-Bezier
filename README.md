@@ -1,4 +1,4 @@
-# Informed-RRTstar-with-Bezier
+# Informed_RRTstar_With_Bezier
 The repository implements the informed RRT*(rapidly exploring random tree) algorithm optimized using Bezier curve and integrates it in the nav2 path planner under ros2 humble.
 
 ## use the Informed RRT* for path planning
